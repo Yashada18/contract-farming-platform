@@ -1,0 +1,51 @@
+/* Custom Styles */
+.navbar-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    color:rgb(17, 131, 17)
+}
+body, html {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.hero-section {
+    background: url('https://via.placeholder.com/1200x500') no-repeat center center/cover;
+    padding: 100px 0;
+}
+
+.hero-section h1, .hero-section p {
+    color: #fff;
+}
+
+.features-section {
+    background: #f8f9fa;
+}
+
+.features-section h2 {
+    color: #007bff;
+}
+
+.features-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.features-section ul li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.features-section ul li i {
+    color: #007bff;
+    margin-right: 10px;
+}
+
+footer {
+    background-color: #343a40;
+}
+
+footer p {
+    margin: 0;
+}

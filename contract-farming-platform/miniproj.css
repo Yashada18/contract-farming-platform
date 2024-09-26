@@ -1,51 +1,25 @@
-/* Custom Styles */
-.navbar-brand{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 200;
-    color:rgb(17, 131, 17)
+#nav{
+    height: 65px;
+    background-color: rgb(12, 123, 22);
+    color: aliceblue;
 }
-body, html {
-    font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding: 0;
+body{
+    background-color: rgb(255, 255, 255);
 }
+#title
+{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    color: rgb(63, 20, 20);
+    font-weight: bold;
+}
+#subtitle
+{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(63, 20, 20);
+    font-weight: bold;
 
-.hero-section {
-    background: url('https://via.placeholder.com/1200x500') no-repeat center center/cover;
-    padding: 100px 0;
-}
 
-.hero-section h1, .hero-section p {
-    color: #fff;
-}
-
-.features-section {
-    background: #f8f9fa;
-}
-
-.features-section h2 {
-    color: #007bff;
-}
-
-.features-section ul {
-    list-style: none;
-    padding: 0;
-}
-
-.features-section ul li {
-    font-size: 1.2rem;
-    margin-bottom: 10px;
-}
-
-.features-section ul li i {
-    color: #007bff;
-    margin-right: 10px;
-}
-
-footer {
-    background-color: #343a40;
-}
-
-footer p {
-    margin: 0;
 }
